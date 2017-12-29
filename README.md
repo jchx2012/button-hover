@@ -4,7 +4,7 @@
 <p>IE9+,chrome,opera,firefox</p>
 -----------------------------------
 
-[效果预览](http://wjf444128852.github.io/demo02/MyButtonHover/ "效果预览")
+[效果预览](https://jchx2012.github.io/button-hover/ "效果预览")
 
 ####原理
 + border属性拆分开来理解
